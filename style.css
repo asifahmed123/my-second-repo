@@ -2,5 +2,6 @@ h1{
     color:crimson
 }
 p{
-    color:cadetblue
+    color:cadetblue;
+    font-size: 50px;
 }
